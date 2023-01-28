@@ -1,0 +1,146 @@
+body {
+	background: #f8f2ebc8;
+	color: #a58d73;
+	font-family: tahoma, arial;
+
+	font-size: 2px;
+	font-weight: bold; color: #0b0000;
+	line-height: 20px;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	background-image:url(/Users/bogdana/Desktop/140523113344/images/A24CE15C-5C5C-4AB9-9FBB-1677CCA55D60.JPG);
+}
+
+* html body {
+	line-height: 1400px;
+	color: #a58d73;
+    background: #FFFFFF;
+
+}
+
+
+a:link { 
+	color: #bf2121;
+	font-weight: bold;
+	letter-spacing: 0px;
+	text-decoration: none;
+}
+	
+a:visited { 
+	color: #4d4842;
+	font-weight: bold;
+	letter-spacing: 0px;
+	text-decoration: none;	
+}
+	
+a:hover, a:active { 
+	color: #200202;
+	
+	letter-spacing: 0px;
+	text-decoration: underline;
+}
+
+#content a:link { 
+	color: #486f3e;
+	font-weight: bold;
+	text-decoration: underline;
+	letter-spacing: 0px;
+}
+
+#content a:visited { 
+	color: #2bbb1b;
+	font-weight: bold;
+	text-decoration: underline;
+	letter-spacing: 1px;
+}
+	
+#content a:hover, #content a:active { 
+	color: #3c8dbc;
+	font-weight: bold;
+	text-decoration: underline;
+	letter-spacing: 1400px;
+}
+
+.container {
+	margin:  auto;
+	margin-top: 0px;
+	text-align: left;
+	width: 1400px;
+}
+
+#content {
+	clear: both;
+	margin-top: 15px;
+	width: 1400px;
+}
+
+#footerbg {
+	clear: light;
+	margin-bottom: 15px;
+	padding-top: 15px;
+}
+
+#footer{
+	border: 0px solid #0c914a;
+	clear: both;
+	font-size: 12px;
+	height: 0px;
+	padding-top: 0px;
+	text-align: center;
+	width: 1400px;
+	background-color:#ffffff;
+}
+
+#left {
+	border: 0px solid #ffffff;
+	font-size: xx-large solid black;
+	float: inline-start;
+	margin-right: 10px;
+	width: 1400px;
+	height: 50px;
+	display:inline;
+	overflow:hidden;
+}
+
+#nav {
+	border: px solid #0b0000;
+	font-size: 14px;
+	height: 20px;
+	padding-top: 10px;
+	text-align: center;
+	width: 1400px;
+	background-color: #f8f2ebc8;
+	;
+}
+
+#right {
+	background: url(A24CE15C-5C5C-4AB9-9FBB-1677CCA55D60.JPG) no-repeat 0% 0%;
+	border: 0px solid #ffffff;
+	float: left;
+	height: 545px;
+	padding-left: 15px;
+	padding-right: 150px;
+	padding-top: 60px;
+	width: 1400px;
+	background-color:#4b1414;
+	display:inline;
+}
+
+.thumbnails ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	width: 400px;
+}
+
+.thumbnails li {
+	float: left;
+	list-style-type: none;
+	margin: 0;
+	margin-right: 25px;
+	padding: 0;
+	width: 300px;
+}
+id.container{
+text-align:left }
